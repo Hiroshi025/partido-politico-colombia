@@ -1,0 +1,162 @@
+{
+  "es": [
+    {
+      "id": 1,
+      "title": "Educación y Formación Integral",
+      "description": "Programas de capacitación técnica, becas de estudio y espacios de formación en liderazgo juvenil para el desarrollo profesional.",
+      "icon": "GraduationCap",
+      "color": "#23c060",
+      "details": [
+        "Becas de estudio para educación superior",
+        "Cursos de capacitación técnica gratuitos",
+        "Talleres de liderazgo juvenil",
+        "Programas de intercambio estudiantil"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Empleo y Emprendimiento Juvenil",
+      "description": "Creación de bolsas de empleo, programas de emprendimiento y alianzas estratégicas con el sector privado.",
+      "icon": "Briefcase",
+      "color": "#7b00d2",
+      "details": [
+        "Bolsa de empleo juvenil municipal",
+        "Incubadora de startups juveniles",
+        "Microcréditos para emprendedores",
+        "Ferias de empleo especializadas"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Participación Ciudadana Activa",
+      "description": "Fortalecimiento de espacios de participación y consulta juvenil en las decisiones municipales importantes.",
+      "icon": "Users",
+      "color": "#23c060",
+      "details": [
+        "Consejos juveniles barriales",
+        "Presupuestos participativos juveniles",
+        "Consultas ciudadanas digitales",
+        "Veedurías juveniles"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Cultura, Arte y Deporte",
+      "description": "Promoción de actividades culturales, artísticas y deportivas para el desarrollo integral de la juventud.",
+      "icon": "Palette",
+      "color": "#7b00d2",
+      "details": [
+        "Festivales culturales juveniles",
+        "Escuelas deportivas gratuitas",
+        "Espacios para expresión artística",
+        "Torneos deportivos municipales"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Tecnología e Innovación Digital",
+      "description": "Acceso a tecnología, capacitación digital y promoción de proyectos innovadores liderados por jóvenes.",
+      "icon": "Smartphone",
+      "color": "#23c060",
+      "details": [
+        "Centros de innovación tecnológica",
+        "Cursos de programación gratuitos",
+        "Hackathons y competencias tech",
+        "Conectividad gratuita en espacios públicos"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Medio Ambiente y Sostenibilidad",
+      "description": "Programas ambientales liderados por jóvenes para la sostenibilidad y el cuidado del planeta.",
+      "icon": "Leaf",
+      "color": "#7b00d2",
+      "details": [
+        "Brigadas ambientales juveniles",
+        "Proyectos de reciclaje comunitario",
+        "Huertos urbanos escolares",
+        "Campañas de conciencia ambiental"
+      ]
+    }
+  ],
+  "en": [
+    {
+      "id": 1,
+      "title": "Education and Comprehensive Training",
+      "description": "Technical training programs, study scholarships and youth leadership training spaces for professional development.",
+      "icon": "GraduationCap",
+      "color": "#23c060",
+      "details": [
+        "Higher education scholarships",
+        "Free technical training courses",
+        "Youth leadership workshops",
+        "Student exchange programs"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Youth Employment and Entrepreneurship",
+      "description": "Creation of job banks, entrepreneurship programs and strategic alliances with the private sector.",
+      "icon": "Briefcase",
+      "color": "#7b00d2",
+      "details": [
+        "Municipal youth job bank",
+        "Youth startup incubator",
+        "Microcredits for entrepreneurs",
+        "Specialized job fairs"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Active Citizen Participation",
+      "description": "Strengthening participation and youth consultation spaces in important municipal decisions.",
+      "icon": "Users",
+      "color": "#23c060",
+      "details": [
+        "Neighborhood youth councils",
+        "Youth participatory budgets",
+        "Digital citizen consultations",
+        "Youth oversight committees"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Culture, Art and Sports",
+      "description": "Promotion of cultural, artistic and sports activities for the comprehensive development of youth.",
+      "icon": "Palette",
+      "color": "#7b00d2",
+      "details": [
+        "Youth cultural festivals",
+        "Free sports schools",
+        "Spaces for artistic expression",
+        "Municipal sports tournaments"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Technology and Digital Innovation",
+      "description": "Access to technology, digital training and promotion of innovative projects led by young people.",
+      "icon": "Smartphone",
+      "color": "#23c060",
+      "details": [
+        "Technology innovation centers",
+        "Free programming courses",
+        "Hackathons and tech competitions",
+        "Free connectivity in public spaces"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Environment and Sustainability",
+      "description": "Environmental programs led by young people for sustainability and planet care.",
+      "icon": "Leaf",
+      "color": "#7b00d2",
+      "details": [
+        "Youth environmental brigades",
+        "Community recycling projects",
+        "School urban gardens",
+        "Environmental awareness campaigns"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "es": {
+    "nav": {
+      "home": "Inicio",
+      "about": "Sobre Mí",
+      "proposals": "Propuestas",
+      "youth": "Juventud",
+      "contact": "Contacto",
+      "joinChange": "Únete al Cambio"
+    },
+    "hero": {
+      "title": "CONSEJO MUNICIPAL DE",
+      "subtitle": "JUVENTUDES 2025",
+      "hashtag": "#FREIDYNRIVERA",
+      "description": "Representando la voz de la juventud, construyendo el futuro que merecemos juntos",
+      "cta1": "Conoce mis Propuestas",
+      "cta2": "Únete al Movimiento",
+      "badge1": "CMJ 2025",
+      "badge2": "Juventud Activa"
+    },
+    "about": {
+      "title": "Sobre Freidyn Rivera",
+      "subtitle": "Joven líder comprometido con el desarrollo y la participación activa de la juventud en las decisiones que afectan nuestro futuro",
+      "leadership": {
+        "title": "Liderazgo Juvenil",
+        "description": "Experiencia en organizaciones juveniles y movimientos estudiantiles, promoviendo la participación activa de los jóvenes."
+      },
+      "vision": {
+        "title": "Visión Clara",
+        "description": "Propuestas concretas para mejorar las oportunidades educativas, laborales y de participación ciudadana para la juventud."
+      },
+      "commitment": {
+        "title": "Compromiso Social",
+        "description": "Dedicado al servicio comunitario y al trabajo por una sociedad más justa e inclusiva para todos los jóvenes."
+      }
+    },
+    "proposals": {
+      "title": "Propuestas para la Juventud",
+      "subtitle": "Un plan integral para fortalecer la participación juvenil en nuestro municipio",
+      "viewDetails": "Ver Detalles"
+    },
+    "stats": {
+      "title": "Impacto Esperado",
+      "subtitle": "Metas ambiciosas para transformar la realidad juvenil",
+      "youth": "Jóvenes Beneficiados",
+      "programs": "Programas Implementados",
+      "jobs": "Empleos Generados",
+      "projects": "Proyectos Comunitarios"
+    },
+    "testimonials": {
+      "title": "Voces de la Juventud",
+      "subtitle": "Lo que dicen los jóvenes sobre nuestras propuestas"
+    },
+    "cta": {
+      "title": "Únete al Movimiento Juvenil",
+      "subtitle": "Juntos podemos construir un futuro mejor para la juventud de nuestro municipio. Tu voz importa, tu participación hace la diferencia.",
+      "contact": "Contactar a Freidyn",
+      "social": "Seguir en Redes Sociales"
+    },
+    "footer": {
+      "description": "Freidyn Rivera - Candidato al Consejo Municipal de Juventudes 2025",
+      "party": "Partido Oxígeno - Colombia",
+      "links": "Enlaces Importantes",
+      "partyLink": "Partido Verde Oxígeno",
+      "contact": "Contacto",
+      "email": "Email: freidyn.rivera@cmj2025.com",
+      "phone": "Teléfono: +57 (XXX) XXX-XXXX",
+      "developer": "Desarrollado por:",
+      "rights": "© 2025 Freidyn Rivera - CMJ 2025. Todos los derechos reservados.",
+      "followUs": "Síguenos en:",
+      "newsletter": "Suscríbete al Newsletter",
+      "newsletterDesc": "Recibe las últimas noticias de la campaña"
+    }
+  },
+  "en": {
+    "nav": {
+      "home": "Home",
+      "about": "About Me",
+      "proposals": "Proposals",
+      "youth": "Youth",
+      "contact": "Contact",
+      "joinChange": "Join the Change"
+    },
+    "hero": {
+      "title": "MUNICIPAL YOUTH",
+      "subtitle": "COUNCIL 2025",
+      "hashtag": "#FREIDYNRIVERA",
+      "description": "Representing the voice of youth, building the future we deserve together",
+      "cta1": "Know my Proposals",
+      "cta2": "Join the Movement",
+      "badge1": "MYC 2025",
+      "badge2": "Active Youth"
+    },
+    "about": {
+      "title": "About Freidyn Rivera",
+      "subtitle": "Young leader committed to the development and active participation of youth in decisions that affect our future",
+      "leadership": {
+        "title": "Youth Leadership",
+        "description": "Experience in youth organizations and student movements, promoting active participation of young people."
+      },
+      "vision": {
+        "title": "Clear Vision",
+        "description": "Concrete proposals to improve educational, employment and civic participation opportunities for youth."
+      },
+      "commitment": {
+        "title": "Social Commitment",
+        "description": "Dedicated to community service and working for a more just and inclusive society for all young people."
+      }
+    },
+    "proposals": {
+      "title": "Proposals for Youth",
+      "subtitle": "A comprehensive plan to strengthen youth participation in our municipality",
+      "viewDetails": "View Details"
+    },
+    "stats": {
+      "title": "Expected Impact",
+      "subtitle": "Ambitious goals to transform youth reality",
+      "youth": "Youth Benefited",
+      "programs": "Programs Implemented",
+      "jobs": "Jobs Generated",
+      "projects": "Community Projects"
+    },
+    "testimonials": {
+      "title": "Youth Voices",
+      "subtitle": "What young people say about our proposals"
+    },
+    "cta": {
+      "title": "Join the Youth Movement",
+      "subtitle": "Together we can build a better future for the youth of our municipality. Your voice matters, your participation makes the difference.",
+      "contact": "Contact Freidyn",
+      "social": "Follow on Social Media"
+    },
+    "footer": {
+      "description": "Freidyn Rivera - Candidate for Municipal Youth Council 2025",
+      "party": "Oxígeno Party - Colombia",
+      "links": "Important Links",
+      "partyLink": "Green Oxígeno Party",
+      "contact": "Contact",
+      "email": "Email: freidyn.rivera@cmj2025.com",
+      "phone": "Phone: +57 (XXX) XXX-XXXX",
+      "developer": "Developed by:",
+      "rights": "© 2025 Freidyn Rivera - MYC 2025. All rights reserved.",
+      "followUs": "Follow us on:",
+      "newsletter": "Subscribe to Newsletter",
+      "newsletterDesc": "Get the latest campaign news"
+    }
+  }
+}
